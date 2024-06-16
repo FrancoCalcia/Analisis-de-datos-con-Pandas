@@ -14,4 +14,4 @@ El proyecto está dividido en tres partes principales:
    - En la sección final se realiza un análisis exhaustivo de los datos. Se utilizan diversas técnicas de análisis exploratorio para descubrir patrones y tendencias en los crímenes de Los Ángeles.
 
 ## Ejecución
-Puedes ejecutarlo directamente entrado a mi Google Colab donde el link está compartido para cualquier persona que desee verlo.
+Puedes ejecutar el proyecto directamente accediendo a mi notebook en Google Colab. El enlace está disponible para cualquier persona que desee verlo y replicar el análisis.
